@@ -2,7 +2,7 @@
 
 Controle financeiro pessoal: contas, cartões e faturas, orçamento, relatórios,
 projeção do saldo, objetivos de economia e importação de extratos. Funciona no
-**Windows** e no **Android**, sem internet, e sincroniza entre os aparelhos
+**Windows** e no **Android** (sem internet), no **iPhone** pelo navegador, e sincroniza entre os aparelhos
 com os dados **cifrados de ponta a ponta** (nem quem mantém o servidor
 consegue ler).
 
@@ -39,6 +39,23 @@ instale num computador pessoal.
    fonte** (o navegador ou o gerenciador de arquivos): permita e volte.
 3. Toque em **Instalar**. Se o **Play Protect** pedir para analisar, deixe:
    ele confere o app e libera a instalação.
+
+## iPhone (e qualquer navegador)
+
+Não precisa baixar nada: abra **https://machadoskes.github.io/lumen-releases/app/**.
+
+1. No iPhone, abra o endereço no **Safari** (precisa ser o Safari).
+2. Toque em **Compartilhar** (o quadrado com a seta) → **Adicionar à Tela de
+   Início** → **Adicionar**.
+3. Abra pelo ícone do Lumen: ele ocupa a tela toda, como um app.
+
+**Crie uma conta** (Configurações → Conta e sincronização): sem ela, os dados
+ficam só no Safari e somem se ele for limpo. Com a conta, eles também
+aparecem no Windows e no Android.
+
+Na versão web não há lembretes de vencimento, widget, leitura das
+notificações dos bancos nem bloqueio por Face ID. Ela abre sempre a versão
+mais nova, então não precisa atualizar.
 
 ## Atualizações
 
